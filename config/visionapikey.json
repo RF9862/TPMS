@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "asymmetric-bank-347517",
+  "private_key_id": "d563956431fc637a12cbe144c7ea328f476f0866",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCaJ1dxsiPMlAE0\n3La2bcVD72LX0tgG3K/yeVBqXqIo/NpuPJtHHC+hJh53Armgxnfre0jWxOX7m6u/\nmmVEKLPAca/vWtZtf6TFpCGkrERtpvQLIhcTDR0dY5foFYjusiQhYwG2AVYigmbT\nIuNmkJ9QJ0jxBFr+lU7QScYGSO3/NKNi0CerLRevSKno0BJniZu91utHA5lBJ19y\naemC2V53Vdzf+UCFedju1orHj1ANX6NwLRHYNBX0YqDGoC9w+3Op/7VBNreYhG+r\nVY02cUgr+ccUSIwOM67pQRlApDoWg9ax0kC8+QvEngPAYdwwu8dUF8g/Dx7c1oQd\nEhgHzqnZAgMBAAECggEAAZnD+i2/2ml1A8AA8677G+P58kTBsnyLJSjmUVxvMZ7C\ng9+EOz5LLlCvg0vXcphs+Vh73qMHwk+Q/nnTcFw91ZM4oPMgA94N73FvWf7h7QON\nSCpP9AYwVbRJiQLkO5pE7sXQ6DtmUhBpkeqsUs3QoavuwXXqnfcd7OK/OCR8uCgn\nIlfeCvENQpmCZ+JBcX0paMUKs1H6J4HzI2H5F3G9XVufd+z1pn6Y2AhH2U5/wV2F\nnJbJ5gg/8X6//rxXdIKbbgY7R8FbbMJCvKmOU3s9Py7cGoJYUI0ruzBMvPYaJ2g+\n/dCbZ+vpUEMEOvRrpX5Vev5z0vkI506fiGHLlM+C+wKBgQDSOT/LfwCzW+ZNXEgo\nBm259Ajbo0rSTcCDf7bivHaoVqjFJHWXJLWNqI9YRQZQFsYzbu9zfRa0i8AdmjLA\nM+dSB22lTRIVDABkxGZsyn/VfXJkeyDfRwgTfv9VfOAbElEEtGE9+IC4r60uVIYR\n22jYwL1yxd43gTuM3onkgP9sPwKBgQC7uIRdX30CdVQQaOt739jFCQYgDk5S5pJx\nXC4NM4uZsDLlHbpeiFy2oRUFJUvYU2o73Dkb4kz6bXPeN8ZVJht9YHzhf6jMo5T5\nD9Q7roFBnh/S8QQAtU58nrlsA2coau/lV1CTNxb9broZthmi3YN4g/REAi3Aq1kx\nLRqN9iDD5wKBgGrgrj1gQVPuqgS0oP6wXgLHPeWkfDq1SuXP/YQCuvTUshMgeSQx\nhpgRlWcUGKSJH5Uwlk6JzwxVbIPgTGMJQFak7iq3JzVKF70jWMuAnENG9ux86PZ7\nH3ECBQBKb4lz43rX1gRyncbHke1XDZ5whTqFqwt564Mekc8JqONibflzAoGAaABp\nbSXbJ4KDaXgHhyDUgw1l1Fq4sBtIZP+yD+RP4n0JJYDb4UXhP9lswOYR6C8Gu1Ve\nWoF9Ln13ZVU3T7OGJWdQqMpGZeH3Rimr5sjemdEWRpL7Kb1JV6fEiQA1peHhOQmv\n/W/XD9/JwTbvaxkYnqtUqF0gpg8IokMf5CjJrF8CgYAKK0u5EDb/QnCJ5pr3cAdW\n9CsbaLKb4Cwc2ox38QOXYn4r1BoI898ecUYooUHJ7dNJ5J63pH46sbjnsvyCwX3G\n3Xd65KOXHkQEBgUxxOXcutvS52pNYukO0PmgHhIt4FZU+lK/bVYGXKlW2IcM34Js\nIsqmxPub6PW5DSwegl4T0Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "visionapi-test@asymmetric-bank-347517.iam.gserviceaccount.com",
+  "client_id": "104051264734771342015",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/visionapi-test%40asymmetric-bank-347517.iam.gserviceaccount.com"
+}
